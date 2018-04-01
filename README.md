@@ -1,4 +1,4 @@
-# Victor Hugo
+# Jojo le blogueur
 
 **A Hugo boilerplate for creating truly epic websites**
 

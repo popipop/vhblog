@@ -20,7 +20,7 @@ theme = "hugo_theme_pickles"
   ga_api_key = "Your Google Analytics tracking id"
   author = "Matthieu"
   authorwebsite = "popipop.com"
-  avatar = "/images/photo.jpg"
+  avatar = "/images/main.png"
   contact = "Your contact link (ex. mailto:foo@example.com)"
   bio = "Coucou, c'est moi :)"
   # Short subtitle/tagline. This is displayed in the header.
